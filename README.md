@@ -1,7 +1,6 @@
 # MultiSig Wallet in Solidity
 
 ![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Solidity Version](https://img.shields.io/badge/Solidity-0.8.0-orange.svg)
 
 This is a simple MultiSig wallet smart contract implemented in Solidity. The contract allows multiple signatories to collectively control a wallet, making it suitable for managing shared funds securely.
 
